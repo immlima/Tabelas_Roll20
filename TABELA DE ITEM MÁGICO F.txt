@@ -1,0 +1,100 @@
+1 - Arma +1
+2 - Arma +1
+3 - Arma +1
+4 - Arma +1
+5 - Arma +1
+6 - Arma +1
+7 - Arma +1
+8 - Arma +1
+9 - Arma +1
+10 - Arma +1
+11 - Arma +1
+12 - Arma +1
+13 - Arma +1
+14 - Arma +1
+15 - Arma +1
+16 - Escudo +1
+17 - Escudo +1
+18 - Escudo +1
+19 - Escudo sentinela
+20 - Escudo sentinela
+21 - Escudo sentinela
+22 - Amuleto de proteção contra detecção e localização
+23 - Amuleto de proteção contra detecção e localização
+24 - Botas élficas
+25 - Botas élficas
+26 - Botas de caminhar e saltar
+27 - Botas de caminhar e saltar
+28 - Braçadeiras de arquearia
+29 - Braçadeiras de arquearia
+30 - Broche do escudo
+31 - Broche do escudo
+32 - Vassoura voadora
+33 - Vassoura voadora
+34 - Manto élfico
+35 - Manto élfico
+36 - Manto de proteção
+37 - Manto de proteção
+38 - Manoplas de força do ogro
+39 - Manoplas de força do ogro
+40 - Chapéu de disfarce
+41 - Chapéu de disfarce
+42 - Azagaia de relâmpago
+43 - Azagaia de relâmpago
+44 - Pérola do poder
+45 - Pérola do poder
+46 - Bastão guardião de pactos +1
+47 - Bastão guardião de pactos +1
+48 - Sandálias de patas de aranha
+49 - Sandálias de patas de aranha
+50 - Cajado da víbora
+51 - Cajado da víbora
+52 - Cajado da píton
+53 - Cajado da píton
+54 - Espada da vingança
+55 - Espada da vingança
+56 - Tridente de comandar peixes
+57 - Tridente de comandar peixes
+58 - Varinha de misseis mágicos
+59 - Varinha de misseis mágicos
+60 - Varinha do arcano de guerra +1
+61 - Varinha do arcano de guerra +1
+62 - Varinha de teia
+63 - Varinha de teia
+64 - Arma de alerta
+65 - Arma de alerta
+66 - Armadura de adamante (cota de malha)
+67 - Armadura de adamante (camisão de malha)
+68 - Armadura de adamante (brunea)
+69 - Bolsa de truques (cinza)
+70 - Bolsa de truques (ferrugem)
+71 - Bolsa de truques (bronze)
+72 - Botas do inverno
+73 - Diadema da destruição
+74 - Baralho das ilusões
+75 - Garrafa da fumaça eterna
+76 - Olhos do encantamento
+77 - Olhos de águia
+78 - Estátua de poderes incríveis (corvo de prata)
+79 - Gema da luminosidade
+80 - Luvas de apanhar projeteis
+81 - Luvas de nadar e escalar
+82 - Luvas do ladrão
+83 - Tiara do intelecto
+84 - Elmo de telepatia
+85 - Instrumento dos bardos (alaúde de Doss)
+86 - Instrumento dos bardos (bandolim de Fochlucan)
+87 - Instrumento dos bardos (citara de Mac-Fuimidh)
+88 - Medalhão de pensamentos
+89 - Colar de adaptação
+90 - Periapto da cicatrização
+91 - Flauta assombrada
+92 - Flauta dos esgotos
+93 - Anel de saltar
+94 - Anel de escudo mental
+95 - Anel de calor
+96 - Anel de andar na água
+97 - Aljava de Ehlonna
+98 - Pedra da boa sorte
+99 - Leque do vento
+100 - Botas aladas

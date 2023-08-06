@@ -1,0 +1,100 @@
+1 - Defensora
+2 - Defensora
+3 - Defensora
+4 - Defensora
+5 - Defensora
+6 - Martelo dos trovões
+7 - Martelo dos trovões
+8 - Martelo dos trovões
+9 - Martelo dos trovões
+10 - Martelo dos trovões
+11 - Lâmina da sorte
+12 - Lâmina da sorte
+13 - Lâmina da sorte
+14 - Lâmina da sorte
+15 - Lâmina da sorte
+16 - Espada de retaliação
+17 - Espada de retaliação
+18 - Espada de retaliação
+19 - Espada de retaliação
+20 - Espada de retaliação
+21 - Vingadora sagrada
+22 - Vingadora sagrada
+23 - Vingadora sagrada
+24 - Anel de invocação de djinni
+25 - Anel de invocação de djinni
+26 - Anel de invocação de djinni
+27 - Anel de invisibilidade
+28 - Anel de invisibilidade
+29 - Anel de invisibilidade
+30 - Anel de refletir magias
+31 - Anel de refletir magias
+32 - Anel de refletir magias
+33 - Bastão do grande poder
+34 - Bastão do grande poder
+35 - Bastão do grande poder
+36 - Cajado do arcano
+37 - Cajado do arcano
+38 - Cajado do arcano
+39 - Espada vorpal
+40 - Espada vorpal
+41 - Espada vorpal
+42 - Cinturão de força do gigante das nuvens
+43 - Cinturão de força do gigante das nuvens
+44 - Peitoral +2
+45 - Peitoral +2
+46 - Cota de malha +3
+47 - Cota de malha +3
+48 - Camisão de malha +3
+49 - Camisão de malha +3
+50 - Manto de invisibilidade
+51 - Manto de invisibilidade
+52 - Bola de cristal (versão lendária)
+53 - Bola de cristal (versão lendária)
+54 - Meia-armadura +1
+55 - Meia-armadura +1
+56 - Frasco de ferro
+57 - Frasco de ferro
+58 - Armadura de couro +3
+59 - Armadura de couro +3
+60 - Armadura de placas +1
+61 - Armadura de placas +1
+62 - Robe do arquimago
+63 - Robe do arquimago
+64 - Bastão de ressurreição
+65 - Bastão de ressurreição
+66 - Brunea +1
+67 - Brunea +1
+68 - Escaravelho da proteção
+69 - Escaravelho da proteção
+70 - Cota de talas +2
+71 - Cota de talas +2
+72 - Armadura de couro batido +2
+73 - Armadura de couro batido +2
+74 - Poço dos muitos mundos
+75 - Poço dos muitos mundos
+76 - Armadura mágica (role um d12) 1–2 Meia-armadura +2 3–4 Armadura de placas +2 5–6 Armadura de couro batido +3 7–8 Peitoral +3 9–10 Cota de talas +3 11 | Meia-armadura +3 12 | Armadura de placas +3
+77 - Dispositivo de Kwalish
+78 - Armadura de invulnerabilidade
+79 - Cinturão de força do gigante da tempestade
+80 - Cubo do portal
+81 - Baralho das surpresas
+82 - Malha do efreeti
+83 - Armadura de resistência (meia-armadura)
+84 - Trombeta do Valhalla (ferro)
+85 - Instrumento dos bardos (harpa de Ollamh)
+86 - Pedra iônica (absorção maior)
+87 - Pedra iônica (maestria)
+88 - Pedra iônica (regeneração)
+89 - Armadura de placas da forma etérea
+90 - Armadura de placas da resistência
+91 - Anel de comandar elementais do ar
+92 - Anel de comandar elementais da terra
+93 - Anel de comandar elementais do fogo
+94 - Anel dos três desejos
+95 - Anel de comandar elementais da água
+96 - Esfera da aniquilação
+97 - Talismã da bondade pura
+98 - Talismã da esfera
+99 - Talismã do mal absoluto
+100 - Tomo da língua quieta

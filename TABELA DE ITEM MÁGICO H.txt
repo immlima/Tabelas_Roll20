@@ -1,0 +1,100 @@
+1 - Arma +3
+2 - Arma +3
+3 - Arma +3
+4 - Arma +3
+5 - Arma +3
+6 - Arma +3
+7 - Arma +3
+8 - Arma +3
+9 - Arma +3
+10 - Arma +3
+11 - Amuleto dos planos
+12 - Amuleto dos planos
+13 - Tapete voador
+14 - Tapete voador
+15 - Bola de cristal (versão muito rara)
+16 - Bola de cristal (versão muito rara)
+17 - Anel de regeneração
+18 - Anel de regeneração
+19 - Anel de estrelas cadentes
+20 - Anel de estrelas cadentes
+21 - Anel de telecinésia
+22 - Anel de telecinésia
+23 - Robe das cores cintilantes
+24 - Robe das cores cintilantes
+25 - Robe das estrelas
+26 - Robe das estrelas
+27 - Bastão de absorção
+28 - Bastão de absorção
+29 - Bastão de prontidão
+30 - Bastão de prontidão
+31 - Bastão de segurança
+32 - Bastão de segurança
+33 - Bastão guardião de pactos +3
+34 - Bastão guardião de pactos +3
+35 - Cimitarra da velocidade
+36 - Cimitarra da velocidade
+37 - Escudo +3
+38 - Escudo +3
+39 - Cajado do fogo
+40 - Cajado do fogo
+41 - Cajado do frio
+42 - Cajado do frio
+43 - Cajado do poder
+44 - Cajado do poder
+45 - Cajado de ataque
+46 - Cajado de ataque
+47 - Cajado de trovão e relâmpago
+48 - Cajado de trovão e relâmpago
+49 - Espada decepadora
+50 - Espada decepadora
+51 - Varinha de metamorfose
+52 - Varinha de metamorfose
+53 - Varinha do arcano de guerra +3
+54 - Varinha do arcano de guerra +3
+55 - Armadura de adamante (meia-armadura)
+56 - Armadura de adamante (placas)
+57 - Escudo animado
+58 - Cinturão de força do gigante do fogo
+59 - Cinturão de força do gigante do frio (ou de pedra)
+60 - Peitoral +1
+61 - Armadura de resistência (peitoral)
+62 - Vela da invocação
+63 - Cota de malha +2
+64 - Camisão de malha +2
+65 - Manto da aranha
+66 - Espada dançarina
+67 - Armadura demoníaca
+68 - Brunea de escamas de dragão
+69 - Armadura anã
+70 - Arremessador anão
+71 - Garrafa do efreeti
+72 - Estátua de poderes incríveis (corcel de obsidiana)
+73 - Marca congelante
+74 - Elmo brilhante
+75 - Trombeta do Valhalla (bronze)
+76 - Instrumento dos bardos (harpa de Anstruth)
+77 - Pedra iônica (absorção)
+78 - Pedra iônica (agilidade)
+79 - Pedra iônica (fortitude)
+80 - Pedra iônica (intuição)
+81 - Pedra iônica (intelecto)
+82 - Pedra iônica (liderança)
+83 - Pedra iônica (força)
+84 - Armadura de couro +2
+85 - Manual da saúde corporal
+86 - Manual do bom exercício
+87 - Manual dos golens
+88 - Manual da rapidez de movimentos
+89 - Espelho do aprisionamento
+90 - Ladra das nove vidas
+91 - Arco do juramento
+92 - Brunea +2
+93 - Escudo de proteção contra magia
+94 - Cota de talas +1
+95 - Armadura de resistência (cota de talas)
+96 - Armadura de couro batido +1
+97 - Armadura de resistência (couro batido)
+98 - Tomo dos grandes pensamentos
+99 - Tomo de liderança e influência
+100 - Tomo da compreensão

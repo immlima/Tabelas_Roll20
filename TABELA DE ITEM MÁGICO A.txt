@@ -1,0 +1,100 @@
+1 - Poção de cura
+2 - Poção de cura
+3 - Poção de cura
+4 - Poção de cura
+5 - Poção de cura
+6 - Poção de cura
+7 - Poção de cura
+8 - Poção de cura
+9 - Poção de cura
+10 - Poção de cura
+11 - Poção de cura
+12 - Poção de cura
+13 - Poção de cura
+14 - Poção de cura
+15 - Poção de cura
+16 - Poção de cura
+17 - Poção de cura
+18 - Poção de cura
+19 - Poção de cura
+20 - Poção de cura
+21 - Poção de cura
+22 - Poção de cura
+23 - Poção de cura
+24 - Poção de cura
+25 - Poção de cura
+26 - Poção de cura
+27 - Poção de cura
+28 - Poção de cura
+29 - Poção de cura
+30 - Poção de cura
+31 - Poção de cura
+32 - Poção de cura
+33 - Poção de cura
+34 - Poção de cura
+35 - Poção de cura
+36 - Poção de cura
+37 - Poção de cura
+38 - Poção de cura
+39 - Poção de cura
+40 - Poção de cura
+41 - Poção de cura
+42 - Poção de cura
+43 - Poção de cura
+44 - Poção de cura
+45 - Poção de cura
+46 - Poção de cura
+47 - Poção de cura
+48 - Poção de cura
+49 - Poção de cura
+50 - Poção de cura
+51 - Pergaminho de magia (truque)
+52 - Pergaminho de magia (truque)
+53 - Pergaminho de magia (truque)
+54 - Pergaminho de magia (truque)
+55 - Pergaminho de magia (truque)
+56 - Pergaminho de magia (truque)
+57 - Pergaminho de magia (truque)
+58 - Pergaminho de magia (truque)
+59 - Pergaminho de magia (truque)
+60 - Pergaminho de magia (truque)
+61 - Poção de escalar
+62 - Poção de escalar
+63 - Poção de escalar
+64 - Poção de escalar
+65 - Poção de escalar
+66 - Poção de escalar
+67 - Poção de escalar
+68 - Poção de escalar
+69 - Poção de escalar
+70 - Poção de escalar
+71 - Pergaminho de magia (1° nível)
+72 - Pergaminho de magia (1° nível)
+73 - Pergaminho de magia (1° nível)
+74 - Pergaminho de magia (1° nível)
+75 - Pergaminho de magia (1° nível)
+76 - Pergaminho de magia (1° nível)
+77 - Pergaminho de magia (1° nível)
+78 - Pergaminho de magia (1° nível)
+79 - Pergaminho de magia (1° nível)
+80 - Pergaminho de magia (1° nível)
+81 - Pergaminho de magia (1° nível)
+82 - Pergaminho de magia (1° nível)
+83 - Pergaminho de magia (1° nível)
+84 - Pergaminho de magia (1° nível)
+85 - Pergaminho de magia (1° nível)
+86 - Pergaminho de magia (1° nível)
+87 - Pergaminho de magia (1° nível)
+88 - Pergaminho de magia (1° nível)
+89 - Pergaminho de magia (1° nível)
+90 - Pergaminho de magia (1° nível)
+91 - Pergaminho de magia (2° nível)
+92 - Pergaminho de magia (2° nível)
+93 - Pergaminho de magia (2° nível)
+94 - Pergaminho de magia (2° nível)
+95 - Poção de cura maior
+96 - Poção de cura maior
+97 - Poção de cura maior
+98 - Poção de cura maior
+99 - Mochila de carga
+100 - Globo de fluxo

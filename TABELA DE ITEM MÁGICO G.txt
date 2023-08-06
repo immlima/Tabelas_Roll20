@@ -1,0 +1,100 @@
+1 - Arma +2
+2 - Arma +2
+3 - Arma +2
+4 - Arma +2
+5 - Arma +2
+6 - Arma +2
+7 - Arma +2
+8 - Arma +2
+9 - Arma +2
+10 - Arma +2
+11 - Arma +2
+12 - Estátua de poderes incríveis (role um d8) 1 | Grifo de bronze 2 | Mosca de ébano 3 | Leões dourados 4 | Bodes de marfim 5 | Elefante de mármore 6–7 Cão de ônix 8 | Coruja de serpentina
+13 - Estátua de poderes incríveis (role um d8) 1 | Grifo de bronze 2 | Mosca de ébano 3 | Leões dourados 4 | Bodes de marfim 5 | Elefante de mármore 6–7 Cão de ônix 8 | Coruja de serpentina
+14 - Estátua de poderes incríveis (role um d8) 1 | Grifo de bronze 2 | Mosca de ébano 3 | Leões dourados 4 | Bodes de marfim 5 | Elefante de mármore 6–7 Cão de ônix 8 | Coruja de serpentina
+15 - Armadura de adamante (peitoral)
+16 - Armadura de adamante (cota de talas)
+17 - Amuleto de saúde
+18 - Armadura de vulnerabilidade
+19 - Escudo apanhador de flechas
+20 - Cinto dos anões
+21 - Cinturão de força do gigante da colina
+22 - Machado furioso
+23 - Botas de levitação
+24 - Botas de velocidade
+25 - Bacia de comandar elementais da água
+26 - Braceletes de defesa
+27 - Braseiro de comandar elementais do fogo
+28 - Capa do saltimbanco
+29 - Incensório de comandar elementais do ar
+30 - Cota de malha +1
+31 - Armadura da resistência (cota de malha)
+32 - Camisão de malha +1
+33 - Armadura da resistência (camisão de malha)
+34 - Manto de deslocamento
+35 - Manto do morcego
+36 - Cubo de força
+37 - Fortaleza instantânea de Daern
+38 - Adaga de envenenamento
+39 - Algemas dimensionais
+40 - Matadora de dragões
+41 - Malha élfica
+42 - Língua flamejante
+43 - Gema de visão
+44 - Matador de gigantes
+45 - Couro batido encantador
+46 - Elmo de teletransporte
+47 - Trombeta da destruição
+48 - Trombeta do Valhalla (prata e latão)
+49 - Instrumento dos bardos (mandolim de Canaith)
+50 - Instrumento dos bardos (lira de Cli)
+51 - Pedra iônica (prontidão)
+52 - Pedra iônica (proteção)
+53 - Pedra iônica (armazenamento)
+54 - Pedra iônica (sustento)
+55 - Faixas de ferro de Bilarro
+56 - Armadura de couro +1
+57 - Armadura de resistência (couro)
+58 - Maça do rompimento
+59 - Maça de destruição
+60 - Maça do terror
+61 - Manto de resistência à magia
+62 - Corrente de contas de oração
+63 - Periapto de proteção contra veneno
+64 - Anel de cativar animais
+65 - Anel de evasão
+66 - Anel de queda suave
+67 - Anel de ação livre
+68 - Anel de proteção
+69 - Anel de resistência
+70 - Anel de armazenar magia
+71 - Anel do aríete
+72 - Anel de visão de raio-X
+73 - Robe dos olhos
+74 - Bastão da obediência
+75 - Bastão guardião de pactos +2
+76 - Corda de estrangulamento
+77 - Brunea +1
+78 - Armadura de resistência (brunea)
+79 - Escudo +2
+80 - Escudo de atração de projeteis
+81 - Cajado de enfeitiçar
+82 - Cajado de cura
+83 - Cajado de enxame de insetos
+84 - Cajado das florestas
+85 - Cajado do definhamento
+86 - Pedra de comandar elementais da terra
+87 - Lâmina do sol
+88 - Espada do furto de vidas
+89 - Espada do sangramento
+90 - Bastão do tentáculo
+91 - Arma viciosa
+92 - Varinha de obrigação
+93 - Varinha de detecção de inimigos
+94 - Varinha de medo
+95 - Varinha de bolas de fogo
+96 - Varinhas de relâmpagos
+97 - Varinha de paralisia
+98 - Varinha do arcano de guerra +2
+99 - Varinha das maravilhas
+100 - Asas voadoras

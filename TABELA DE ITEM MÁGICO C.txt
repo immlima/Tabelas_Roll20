@@ -1,0 +1,100 @@
+1 - Poção de cura maior
+2 - Poção de cura maior
+3 - Poção de cura maior
+4 - Poção de cura maior
+5 - Poção de cura maior
+6 - Poção de cura maior
+7 - Poção de cura maior
+8 - Poção de cura maior
+9 - Poção de cura maior
+10 - Poção de cura maior
+11 - Poção de cura maior
+12 - Poção de cura maior
+13 - Poção de cura maior
+14 - Poção de cura maior
+15 - Poção de cura maior
+16 - Pergaminho de magia (4° nível)
+17 - Pergaminho de magia (4° nível)
+18 - Pergaminho de magia (4° nível)
+19 - Pergaminho de magia (4° nível)
+20 - Pergaminho de magia (4° nível)
+21 - Pergaminho de magia (4° nível)
+22 - Pergaminho de magia (4° nível)
+23 - Munição +2
+24 - Munição +2
+25 - Munição +2
+26 - Munição +2
+27 - Munição +2
+28 - Poção de clarividência
+29 - Poção de clarividência
+30 - Poção de clarividência
+31 - Poção de clarividência
+32 - Poção de clarividência
+33 - Poção de encolher
+34 - Poção de encolher
+35 - Poção de encolher
+36 - Poção de encolher
+37 - Poção de encolher
+38 - Poção de forma gasosa
+39 - Poção de forma gasosa
+40 - Poção de forma gasosa
+41 - Poção de forma gasosa
+42 - Poção de forma gasosa
+43 - Poção de força do gigante do gelo
+44 - Poção de força do gigante do gelo
+45 - Poção de força do gigante do gelo
+46 - Poção de força do gigante do gelo
+47 - Poção de força do gigante do gelo
+48 - Poção de força do gigante de pedra
+49 - Poção de força do gigante de pedra
+50 - Poção de força do gigante de pedra
+51 - Poção de força do gigante de pedra
+52 - Poção de força do gigante de pedra
+53 - Poção de heroísmo
+54 - Poção de heroísmo
+55 - Poção de heroísmo
+56 - Poção de heroísmo
+57 - Poção de heroísmo
+58 - Poção de invulnerabilidade
+59 - Poção de invulnerabilidade
+60 - Poção de invulnerabilidade
+61 - Poção de invulnerabilidade
+62 - Poção de invulnerabilidade
+63 - Poção de ler mentes
+64 - Poção de ler mentes
+65 - Poção de ler mentes
+66 - Poção de ler mentes
+67 - Poção de ler mentes
+68 - Pergaminho de magia (5° nível)
+69 - Pergaminho de magia (5° nível)
+70 - Pergaminho de magia (5° nível)
+71 - Pergaminho de magia (5° nível)
+72 - Pergaminho de magia (5° nível)
+73 - Elixir de saúde
+74 - Elixir de saúde
+75 - Elixir de saúde
+76 - Óleo de forma etérea
+77 - Óleo de forma etérea
+78 - Óleo de forma etérea
+79 - Poção de força do gigante do fogo
+80 - Poção de força do gigante do fogo
+81 - Poção de força do gigante do fogo
+82 - Pena de Quaal
+83 - Pena de Quaal
+84 - Pena de Quaal
+85 - Pergaminho de proteção
+86 - Pergaminho de proteção
+87 - Pergaminho de proteção
+88 - Saco de feijões
+89 - Saco de feijões
+90 - Contas de força
+91 - Contas de força
+92 - Carrilhão de abertura
+93 - Decantador de água infinita
+94 - Olhos de visão momentânea
+95 - Barco dobrável
+96 - Sacola prestativa de Heward
+97 - Ferraduras da velocidade
+98 - Colar de bolas de fogo
+99 - Periapto de saúde
+100 - Pedras de mensagem

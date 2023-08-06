@@ -1,0 +1,100 @@
+1 - Poção de cura maior
+2 - Poção de cura maior
+3 - Poção de cura maior
+4 - Poção de cura maior
+5 - Poção de cura maior
+6 - Poção de cura maior
+7 - Poção de cura maior
+8 - Poção de cura maior
+9 - Poção de cura maior
+10 - Poção de cura maior
+11 - Poção de cura maior
+12 - Poção de cura maior
+13 - Poção de cura maior
+14 - Poção de cura maior
+15 - Poção de cura maior
+16 - Poção de sopro de fogo
+17 - Poção de sopro de fogo
+18 - Poção de sopro de fogo
+19 - Poção de sopro de fogo
+20 - Poção de sopro de fogo
+21 - Poção de sopro de fogo
+22 - Poção de sopro de fogo
+23 - Poção de resistência
+24 - Poção de resistência
+25 - Poção de resistência
+26 - Poção de resistência
+27 - Poção de resistência
+28 - Poção de resistência
+29 - Poção de resistência
+30 - Munição +1
+31 - Munição +1
+32 - Munição +1
+33 - Munição +1
+34 - Munição +1
+35 - Poção de amizade animal
+36 - Poção de amizade animal
+37 - Poção de amizade animal
+38 - Poção de amizade animal
+39 - Poção de amizade animal
+40 - Poção de força do gigante da colina
+41 - Poção de força do gigante da colina
+42 - Poção de força do gigante da colina
+43 - Poção de força do gigante da colina
+44 - Poção de força do gigante da colina
+45 - Poção de aumentar
+46 - Poção de aumentar
+47 - Poção de aumentar
+48 - Poção de aumentar
+49 - Poção de aumentar
+50 - Poção de respirar na água
+51 - Poção de respirar na água
+52 - Poção de respirar na água
+53 - Poção de respirar na água
+54 - Poção de respirar na água
+55 - Pergaminho de magia (2° nível)
+56 - Pergaminho de magia (2° nível)
+57 - Pergaminho de magia (2° nível)
+58 - Pergaminho de magia (2° nível)
+59 - Pergaminho de magia (2° nível)
+60 - Pergaminho de magia (3° nível)
+61 - Pergaminho de magia (3° nível)
+62 - Pergaminho de magia (3° nível)
+63 - Pergaminho de magia (3° nível)
+64 - Pergaminho de magia (3° nível)
+65 - Mochila de carga
+66 - Mochila de carga
+67 - Mochila de carga
+68 - Unguento de Keoghtom
+69 - Unguento de Keoghtom
+70 - Unguento de Keoghtom
+71 - Óleo escorregadio
+72 - Óleo escorregadio
+73 - Óleo escorregadio
+74 - Pó do desaparecimento
+75 - Pó do desaparecimento
+76 - Pó da seca
+77 - Pó da seca
+78 - Pó de espirrar e tossir
+79 - Pó de espirrar e tossir
+80 - Gema elemental
+81 - Gema elemental
+82 - Filtro do amor
+83 - Filtro do amor
+84 - Jarro de alquimia
+85 - Capa de respirar na água
+86 - Manto da arraia
+87 - Globo de fluxo
+88 - Óculos noturnos
+89 - Elmo de compreensão de idiomas
+90 - Bastão imóvel
+91 - Lanterna de revelação
+92 - Armadura do marinheiro
+93 - Armadura de mitral
+94 - Poção de envenenamento
+95 - Anel de natação
+96 - Robe dos itens úteis
+97 - Corda de escalada
+98 - Sela do cavaleiro
+99 - Varinha de detectar magia
+100 - Varinha de segredos

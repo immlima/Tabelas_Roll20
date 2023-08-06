@@ -1,0 +1,100 @@
+1 - Poção de cura suprema
+2 - Poção de cura suprema
+3 - Poção de cura suprema
+4 - Poção de cura suprema
+5 - Poção de cura suprema
+6 - Poção de cura suprema
+7 - Poção de cura suprema
+8 - Poção de cura suprema
+9 - Poção de cura suprema
+10 - Poção de cura suprema
+11 - Poção de cura suprema
+12 - Poção de cura suprema
+13 - Poção de cura suprema
+14 - Poção de cura suprema
+15 - Poção de cura suprema
+16 - Poção de cura suprema
+17 - Poção de cura suprema
+18 - Poção de cura suprema
+19 - Poção de cura suprema
+20 - Poção de cura suprema
+21 - Poção de invisibilidade
+22 - Poção de invisibilidade
+23 - Poção de invisibilidade
+24 - Poção de invisibilidade
+25 - Poção de invisibilidade
+26 - Poção de invisibilidade
+27 - Poção de invisibilidade
+28 - Poção de invisibilidade
+29 - Poção de invisibilidade
+30 - Poção de invisibilidade
+31 - Poção de velocidade
+32 - Poção de velocidade
+33 - Poção de velocidade
+34 - Poção de velocidade
+35 - Poção de velocidade
+36 - Poção de velocidade
+37 - Poção de velocidade
+38 - Poção de velocidade
+39 - Poção de velocidade
+40 - Poção de velocidade
+41 - Pergaminho de magia (6° nível)
+42 - Pergaminho de magia (6° nível)
+43 - Pergaminho de magia (6° nível)
+44 - Pergaminho de magia (6° nível)
+45 - Pergaminho de magia (6° nível)
+46 - Pergaminho de magia (6° nível)
+47 - Pergaminho de magia (6° nível)
+48 - Pergaminho de magia (6° nível)
+49 - Pergaminho de magia (6° nível)
+50 - Pergaminho de magia (6° nível)
+51 - Pergaminho de magia (7° nível)
+52 - Pergaminho de magia (7° nível)
+53 - Pergaminho de magia (7° nível)
+54 - Pergaminho de magia (7° nível)
+55 - Pergaminho de magia (7° nível)
+56 - Pergaminho de magia (7° nível)
+57 - Pergaminho de magia (7° nível)
+58 - Munição +3
+59 - Munição +3
+60 - Munição +3
+61 - Munição +3
+62 - Munição +3
+63 - Óleo de precisão
+64 - Óleo de precisão
+65 - Óleo de precisão
+66 - Óleo de precisão
+67 - Óleo de precisão
+68 - Poção de voo
+69 - Poção de voo
+70 - Poção de voo
+71 - Poção de voo
+72 - Poção de voo
+73 - Poção de força do gigante das nuvens
+74 - Poção de força do gigante das nuvens
+75 - Poção de força do gigante das nuvens
+76 - Poção de força do gigante das nuvens
+77 - Poção de força do gigante das nuvens
+78 - Poção de longevidade
+79 - Poção de longevidade
+80 - Poção de longevidade
+81 - Poção de longevidade
+82 - Poção de longevidade
+83 - Poção de vitalidade
+84 - Poção de vitalidade
+85 - Poção de vitalidade
+86 - Poção de vitalidade
+87 - Poção de vitalidade
+88 - Pergaminho de magia (8° nível)
+89 - Pergaminho de magia (8° nível)
+90 - Pergaminho de magia (8° nível)
+91 - Pergaminho de magia (8° nível)
+92 - Pergaminho de magia (8° nível)
+93 - Ferraduras de zéfiro
+94 - Ferraduras de zéfiro
+95 - Ferraduras de zéfiro
+96 - Pigmentos maravilhosos de Nolzur
+97 - Pigmentos maravilhosos de Nolzur
+98 - Pigmentos maravilhosos de Nolzur
+99 - Bolsa devoradora
+100 - Buraco portátil
